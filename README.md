@@ -1,3 +1,2 @@
-# YTDL WEB
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Simple Youtube MP3 Downloader
+Extremely simple Youtube MP3 downloader, with a web interface. Using React.js and Node.js
